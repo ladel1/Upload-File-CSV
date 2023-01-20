@@ -1,0 +1,7 @@
+email,roles,password
+adel@gmail.com,ROLE_USER,123456
+pierre@gmail.com,ROLE_USER,123456
+steve@gmail.com,ROLE_USER,123456
+lucas@gmail.com,ROLE_USER,123456
+gael@gmail.com,ROLE_USER,123456
+sarah@gmail.com,ROLE_USER,123456
